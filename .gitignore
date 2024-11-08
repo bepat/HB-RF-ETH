@@ -7,4 +7,4 @@ src/webui/*.gzip
 webui/.cache
 webui/dist
 webui/node_modules
-
+webui/.parcel-cache
